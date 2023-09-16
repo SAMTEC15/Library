@@ -1,0 +1,15 @@
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\bin\Debug\MyLibrary.exe.config
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\bin\Debug\MyLibrary.exe
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\bin\Debug\MyLibrary.pdb
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\bin\Debug\LibCore.dll
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\bin\Debug\LibModels.dll
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\bin\Debug\LibData.dll
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\bin\Debug\LibCore.pdb
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\bin\Debug\LibModels.pdb
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\bin\Debug\LibData.pdb
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\obj\Debug\MyLibrary.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\obj\Debug\MyLibrary.csproj.SuggestedBindingRedirects.cache
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\obj\Debug\MyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\obj\Debug\MyLibrary.csproj.CopyComplete
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\obj\Debug\MyLibrary.exe
+C:\Users\user1\source\repos\Assignment\Test\Library\MyLibrary\obj\Debug\MyLibrary.pdb

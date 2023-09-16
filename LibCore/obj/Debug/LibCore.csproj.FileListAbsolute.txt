@@ -1,0 +1,11 @@
+C:\Users\user1\source\repos\Assignment\Test\Library\LibCore\bin\Debug\LibCore.dll
+C:\Users\user1\source\repos\Assignment\Test\Library\LibCore\bin\Debug\LibCore.pdb
+C:\Users\user1\source\repos\Assignment\Test\Library\LibCore\bin\Debug\LibData.dll
+C:\Users\user1\source\repos\Assignment\Test\Library\LibCore\bin\Debug\LibModels.dll
+C:\Users\user1\source\repos\Assignment\Test\Library\LibCore\bin\Debug\LibData.pdb
+C:\Users\user1\source\repos\Assignment\Test\Library\LibCore\bin\Debug\LibModels.pdb
+C:\Users\user1\source\repos\Assignment\Test\Library\LibCore\obj\Debug\LibCore.csproj.AssemblyReference.cache
+C:\Users\user1\source\repos\Assignment\Test\Library\LibCore\obj\Debug\LibCore.csproj.CoreCompileInputs.cache
+C:\Users\user1\source\repos\Assignment\Test\Library\LibCore\obj\Debug\LibCore.csproj.CopyComplete
+C:\Users\user1\source\repos\Assignment\Test\Library\LibCore\obj\Debug\LibCore.dll
+C:\Users\user1\source\repos\Assignment\Test\Library\LibCore\obj\Debug\LibCore.pdb
